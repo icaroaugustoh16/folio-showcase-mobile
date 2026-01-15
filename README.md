@@ -10,8 +10,12 @@
 </p>
 
 <p align="center">
-  🌐 <b>Web</b> por <a href="https://github.com/derik-martins">Derik Martins</a> · 
-  📱 <b>Mobile</b> por <a href="https://github.com/icaroaugustoh16">Ícaro Augusto</a>
+  💡 <b>Ideia original e conceito por <a href="https://github.com/derik-martins">Derik Martins</a></b>
+</p>
+
+<p align="center">
+  🌐 <b>Web</b> — <a href="https://github.com/derik-martins">Derik Martins</a><br>
+  📱 <b>Mobile (iOS & Android)</b> — <a href="https://github.com/icaroaugustoh16">Ícaro Augusto</a>
 </p>
 
 <p align="center">
